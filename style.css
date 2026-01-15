@@ -14,7 +14,7 @@
     --cor04: #377352;
     --cor05: #1A5C38;
 
-    --fonte-principal: 'Bebas Neue', sans-serif;
+    --fonte-principal: 'Bebas Neue', sans-serif !important;
     --fonte-personalizada: 'idroid', sans-serif;
     
 
